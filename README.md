@@ -14,7 +14,4 @@
 - Built using **Node.js**, **Express**, **HTML/CSS**, and **JavaScript**
 
 ---
-## Installation: Clone the repo
-git clone https://github.com/yourusername/My-Cursor-IDE.git
-cd My-cursor
 
